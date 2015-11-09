@@ -54,8 +54,9 @@ code, pre {
             font-size: 70%;
 }
 .logo {
-  float: left;
+    height: 5em;
 }
+
 code {
   font-size: 0.9em;
 }
